@@ -22,7 +22,6 @@ a
     background-image: url(./index_bg.jpeg);
     background-repeat: no-repeat;
     background-size:contain;
-    /* background-position-y: top 100%; */
     background-position: right;
     position: relative;
 }
